@@ -2,7 +2,7 @@
  * @Author: Dylan8527 vvm8933@gmail.com
  * @Date: 2023-09-17 14:55:31
  * @LastEditors: Dylan8527 vvm8933@gmail.com
- * @LastEditTime: 2023-09-17 15:57:23
+ * @LastEditTime: 2023-09-17 16:12:50
  * @FilePath: \Make-Scripts-Great-Again\README.md
  * @Description: 
  * 
@@ -22,7 +22,7 @@ This tool is designed to automate the process of importing summed micrographs in
 
 <!---------------------------------- Updates --------------------------->
 ## 🚩 Updates
-- ✅ Portable [Windows](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip) **executable files**
+- ✅ Portable [Windows](https://github.com/Cellverse/Make-Scripts-Great-Again/releases/download/v0.1.0/autocryosparc-20230917-windows.zip) **executable files**
 
 ## 🔧 Develop Installation & Package
 - Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
