@@ -20,6 +20,10 @@ This tool is designed to automate the process of importing summed micrographs in
 - Ab-Initio Reconstruction
 - Homogeneous Refinement
 
+<p align="center">
+  <img src="assets/demo.jpeg">
+</p>
+
 <!---------------------------------- Updates --------------------------->
 ## 🚩 Updates
 - ✅ Portable [Windows](https://github.com/Cellverse/Make-Scripts-Great-Again/releases/download/v0.1.0/autocryosparc-20230917-windows.zip) **executable files**
