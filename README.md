@@ -2,7 +2,7 @@
  * @Author: Dylan8527 vvm8933@gmail.com
  * @Date: 2023-09-17 14:55:31
  * @LastEditors: Dylan8527 vvm8933@gmail.com
- * @LastEditTime: 2023-09-17 16:12:50
+ * @LastEditTime: 2023-09-17 16:23:59
  * @FilePath: \Make-Scripts-Great-Again\README.md
  * @Description: 
  * 
@@ -21,7 +21,7 @@ This tool is designed to automate the process of importing summed micrographs in
 - Homogeneous Refinement
 
 <p align="center">
-  <img src="assets/demo.jpeg">
+  <img src="assets/demo.jpeg", width="360">
 </p>
 
 <!---------------------------------- Updates --------------------------->
